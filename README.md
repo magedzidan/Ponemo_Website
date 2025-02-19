@@ -26,10 +26,10 @@ This website was built using:
 
 ## 📸 Preview  
 
-![ponemoooooooooooooo](https://github.com/user-attachments/assets/bc33b4b6-8fea-4841-b0e5-5d922f5efc32)![poenmos2w]
+![ponemoooooooooooooo](https://github.com/user-attachments/assets/bc33b4b6-8fea-4841-b0e5-5d922f5efc32)!
 
 
-🔗 **Live Demo:** [Ponemo Solution](www.ponemo.com)  
+🔗 **Live Demo:** [Ponemo Solution] www.ponemo.com  
 
 ---
 
