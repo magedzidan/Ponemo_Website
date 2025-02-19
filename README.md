@@ -29,7 +29,7 @@ This website was built using:
 ![ponemoooooooooooooo](https://github.com/user-attachments/assets/bc33b4b6-8fea-4841-b0e5-5d922f5efc32)!
 
 
-🔗 **Live Demo:** [Ponemo Solution] www.ponemo.com  
+🔗 **Live Demo:** [Ponemo Solution] www.ponemo.net
 
 ---
 
